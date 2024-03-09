@@ -249,7 +249,7 @@ Group changes to describe their impact on the project, as follows:
 - **Conference server** Conformance to 1.1 specification.
 - **Packaging** Packaging process has entirely been reworked in order to embed Flexisip and Linphone SDK
   inside a single package. Thus, a given version of Flexisip is strongly bound to a specific version
-  of Linphone SDK.
+  of MipVoIP SDK.
 
 ### [Deprecated]
 - **Presence server** Setting `module::Authentication/soci-user-with-phone-request` and
